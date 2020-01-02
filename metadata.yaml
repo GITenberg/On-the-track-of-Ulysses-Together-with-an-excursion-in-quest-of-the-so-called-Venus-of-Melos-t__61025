@@ -1,5 +1,8 @@
 _repo: On-the-track-of-Ulysses-Together-with-an-excursion-in-quest-of-the-so-called-Venus-of-Melos-t__61025
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61025-h/images/cover.jpg
 creator:
   author:
     agent_name: Stillman, William James
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4020
     wikipedia: http://en.wikipedia.org/wiki/William_James_Stillman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61025#On-the-track-of-Ulysses-Together-with-an-excursion-in-quest-of-the-so-called-Venus-of-Melos-t_
 gutenberg_issued: '2019-12-26'
 gutenberg_type: Text
 identifiers:
